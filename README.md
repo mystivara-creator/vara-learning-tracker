@@ -21,3 +21,20 @@ Managing time between Japanese immersion and kernel/scripting projects requires 
 
 ## Architecture & Roadmap
 
+```
+[ Termux Environment ]
+  └─ Flask Server (app.py) 
+      ├─ Local REST API Routes
+      ├─ Gemini API Client Integration
+      └─ Web Dashboard (HTML/JS)
+```
+
+- [x] Initial design and documentation
+- [ ] Flask backend setup & routing
+- [ ] Gemini API integration for log analysis
+- [ ] UI layout implementation
+- [ ] On-device testing in Termux
+
+## LICENSE
+
+MIT
